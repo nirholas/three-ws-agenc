@@ -1,0 +1,19 @@
+# @three-ws/agenc
+
+> Client for the AgenC agent-coordination protocol on Solana — discover tasks, read task status + lifecycle, and look up the agent registry in one import.
+
+@three-ws/agenc is a JavaScript library from three.ws. Install: `npm install @three-ws/agenc`.
+
+## Docs
+
+- [README](https://github.com/nirholas/three-ws-agenc/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/three-ws-agenc/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/three-ws-agenc/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/three-ws-agenc/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/three-ws-agenc)
+- [npm](https://www.npmjs.com/package/@three-ws/agenc)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/three-ws-agenc/issues)
