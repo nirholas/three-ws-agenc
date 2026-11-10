@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "three-ws-agenc",
-      "source": "./",
+      "source": "./plugins/three-ws-agenc",
       "description": "Read AgenC tasks, task lifecycle timelines and the agent registry on Solana with the @three-ws/agenc client.",
+      "category": "development",
       "tags": [
         "agenc",
         "solana",
