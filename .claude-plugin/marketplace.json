@@ -1,0 +1,21 @@
+{
+  "name": "three-ws-agenc",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Read AgenC tasks, task lifecycle timelines and the agent registry on Solana with the @three-ws/agenc client.",
+  "plugins": [
+    {
+      "name": "three-ws-agenc",
+      "source": "./",
+      "description": "Read AgenC tasks, task lifecycle timelines and the agent registry on Solana with the @three-ws/agenc client.",
+      "tags": [
+        "agenc",
+        "solana",
+        "agents",
+        "sdk",
+        "registry"
+      ]
+    }
+  ]
+}
